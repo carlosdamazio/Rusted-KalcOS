@@ -13,3 +13,10 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# Build dir for OS
+/build
+
+# Bootloader objs and shared
+*.so
+*.o
