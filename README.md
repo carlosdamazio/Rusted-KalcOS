@@ -1,2 +1,2 @@
-# Rusted-KalcOS
-Building KalcOS, _but in Rust (hahaha)_.
+# Rust-KalcOS
+A Rust version of KalcOS
